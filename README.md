@@ -1,3 +1,4 @@
+![logo](https://github.com/IT21280474/Malith-Madushan-Profile/blob/main/git%20hub%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Malith Madushan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
